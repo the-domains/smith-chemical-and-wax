@@ -1,6 +1,6 @@
 name: Smith Chemical and Wax
 favicon: null
-layout_spectrum: 0.650103164371103
+layout_spectrum: 0.22819
 typography_spectrum: 0.33755051740445197
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.0437054093927145
-  lightness: 0.6456308052875102
+    - '#ffffff'
+    - '#2b5399'
+    - '#72b549'
+    - '#bbdba7'
+    - '#6783b6'
+  brandStrength: 0.25
+  lightness: 0.125
   saturation: 0.6070271220523864
   rhythmicContrast: 0.35051637329161167
 purpose: []
